@@ -42,12 +42,8 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, dolore
-        suscipit similique nihil maiores consectetur minus sapiente provident
-        voluptate minima voluptatum nesciunt mollitia molestias laborum nulla
-        ipsum nostrum in temporibus molestiae? Libero illum, possimus aperiam
-        tempora aut facere sed similique quis? Odit, quis? Laudantium
-        cupiditate, minus accusantium dolor placeat fuga?
+        Experienced and adaptable software developer with a strong foundation in Flutter, actively engaged in learning and mastering Next.js and React. Proficient in database management with MySQL, and well-versed in the utilization of Tailwind for efficient and responsive user interface design. Adept at version control using Git and committed to writing clean, maintainable code. Embracing the power of TypeScript for enhanced code quality and development scalability. Proven ability to quickly grasp new technologies, coupled with a passion for staying abreast of industry trends. Seeking opportunities to contribute technical expertise and innovative solutions to collaborative development projects.
+
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
